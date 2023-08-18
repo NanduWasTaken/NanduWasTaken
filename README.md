@@ -1,12 +1,13 @@
 <h1 align="center">👋・Hi i'm Nandu</h1>
 
+
 Welcome to my Github, I'm Nandu, a developer,
 self-taught beginner and passionate about IT.
 By the way, I'm mainly "specialized" in javascript and python.
 
 ## ⭐ About Me:
 
-- 🔭 I’m currently learning on **Secret!**
+- 🔭 I’m currently learning **Secret Stuff!**
 
 - 📫 How to reach me [Here](https://tinyurl.com/NanduWasTaken)
 
@@ -14,7 +15,7 @@ By the way, I'm mainly "specialized" in javascript and python.
 
 ## 📘 Language and Tool:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/node/node.png?raw=true"></code> <code><img height="20" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/html/html.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/css/css.png"></code> <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb0Xmf5nxBsYTJJkwXKQo87k4dPgxsO7VmmUW4IhWfI0DgZhN2Ut71Vzv5&s=10"></code> <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfmkllmO-FZm-v2ahC7Za1dCdmt9fjJSItGGZldJFzxm0nAuUS-Tj4zQM&s=10"></code>   
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png"></code>  <code><img height="20" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/node/node.png?raw=true"></code> <code><img height="20" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/html/html.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/css/css.png"></code> <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb0Xmf5nxBsYTJJkwXKQo87k4dPgxsO7VmmUW4IhWfI0DgZhN2Ut71Vzv5&s=10"></code> <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfmkllmO-FZm-v2ahC7Za1dCdmt9fjJSItGGZldJFzxm0nAuUS-Tj4zQM&s=10"></code>   
     
 ## 🔗 Links
 
@@ -46,4 +47,9 @@ By the way, I'm mainly "specialized" in javascript and python.
 [![NanduWasTaken's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NanduWasTaken&layout=compact&theme=midnight-purple)](https://github.com/NanduWasTaken)
 
 </details>
+
+
+
+
+
 
