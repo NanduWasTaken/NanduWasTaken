@@ -1,10 +1,12 @@
 <p align="center">
+  <a href="/">
       <img 
       src="./assets/img/nanduwastaken.png" 
       alt="Nandu" 
       width="200" 
       height="200"
       >
+  </a>
 </p>
 
 <h1 align="center">👋・Hi i'm Nandu</h1>
