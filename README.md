@@ -28,7 +28,7 @@ By the way, I'm mainly "specialized" in javascript and python.
 
 ## 📘 Language and Tool:
 
-[![Language and Tool](https://skillicons.dev/icons?i=javascript,typescript,nodejs,python,html,css,mongodb,replit,express,github,bootstrap,react)](./)
+[![Language and Tool](https://skillicons.dev/icons?i=javascript,typescript,nodejs,python,html,css,mongodb,replit,express,github,bootstrap,react,nextjs,git,bash)](./)
     
 ## 🔗 Links
 
