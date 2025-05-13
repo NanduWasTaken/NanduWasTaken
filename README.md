@@ -1,3 +1,20 @@
+
+
+
+
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852381000528035890?borderRadius=10px&idleMessage=Probably%20Playing!)
+
+
+
+
+
+
+
+
+
+
+
+<!---
 <p align="center">
   <a href="/">
       <img 
@@ -79,7 +96,7 @@ By the way, I'm mainly "specialized" in javascript and python.
 [![NanduWasTaken's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NanduWasTaken&layout=compact&theme=midnight-purple)](https://github.com/NanduWasTaken)
 
 </details>
-
+--->
 
 
 
