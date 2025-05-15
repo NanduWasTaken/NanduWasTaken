@@ -2,7 +2,7 @@
 
 
 
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852381000528035890?borderRadius=10px&idleMessage=Probably%20Playing!)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852381000528035890?borderRadius=10px&idleMessage=Probably%20Playing!)](https://tinyurl.com/NanduWasTaken)
 
 
 
