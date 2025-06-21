@@ -4,7 +4,7 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852381000528035890?borderRadius=10px&idleMessage=Probably%20Playing!)](https://tinyurl.com/NanduWasTaken)
 
-<small>use nandu.js for now, above account(nandu.db) is permanently suspended, i have appealed lets see what happens</small>
+<small>Use @nandu.js for now, above account(nandu.db) is permanently suspended due to false positive by shitcord, I have appealed lets see what happens.</small>
 
 
 
