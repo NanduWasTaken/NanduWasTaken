@@ -1,7 +1,3 @@
-886478645189824552
-
-
-
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852381000528035890?borderRadius=10px&idleMessage=NOO%20Suspended!)](https://tinyurl.com/NanduWasTaken)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886478645189824552?borderRadius=10px&idleMessage=Probably%20Playing!)](https://discord.com/users/886478645189824552)
 
