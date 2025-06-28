@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886478645189824552?borderRadius=10px&idleMessage=Probably%20Playing!)](https://discord.com/users/886478645189824552)
+[![Discord Presence](https://lanyard.cnrad.dev/api/886478645189824552?idleMessage=Sleeping!)](https://discord.com/users/886478645189824552)
 
 
 
